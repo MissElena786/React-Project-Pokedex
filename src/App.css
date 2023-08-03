@@ -1,0 +1,19 @@
+.outer-pokedex{
+   /* background-color: #F8EFBA; */
+   background-color: white;
+
+}
+#pokedex-heading{
+   text-align: center;
+   letter-spacing: 0.4rem;
+   color: white;
+
+}
+#pokedex-heading>Link{
+   color: white;
+
+}
+#pokedex-heading :hover{
+      font-size: 2.5rem;
+      text-decoration: none;
+}
