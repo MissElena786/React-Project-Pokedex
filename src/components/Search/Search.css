@@ -1,0 +1,15 @@
+
+.search-wrapper {
+    margin: 0 auto;
+}
+#pokemon-name-search {
+    margin-top: 2rem;
+    width: 600px;
+    padding: 1.3rem;
+    border: none;
+    box-shadow: 0 0 0.3rem rgba(39, 9, 68, 0.741);
+}
+#pokemon-name-search :hover{
+    border: none;
+    outline: none;
+}
